@@ -1,29 +1,28 @@
-#### Issue description
+### Issue description
+
+-
 
 
+### What's the expected result?
 
-#### Steps to reproduce the issue
+-
+
+
+### What's the actual result?
+
+-
+
+### Steps to reproduce the issue
 
 1.  
 2. 
 3. 
 
-
-#### What's the expected result?
-
--
-
-
-#### What's the actual result?
-
--
-
-
-#### Additional details / screenshot
+### Additional details / screenshot
 
 - 
 -
 
-#### Status (OPEN/CLOSED)
+### Status (OPEN/CLOSED)
 
 - 
